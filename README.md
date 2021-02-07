@@ -1,4 +1,6 @@
 # newroz-frontend
+Client side app for newroz-shop. Built with Vue.js
+
 ## Vue CLI is required, if not installed the follow this guideline https://cli.vuejs.org/guide/installation.html
 
 ## Project setup
